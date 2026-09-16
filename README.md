@@ -22,6 +22,7 @@ Endoscopic Deep Learning Models*, accepted for **oral presentation** at SPIE Sec
 2026. We showed that a U-Net moving from Kvasir-SEG to an unseen CVC-ClinicDB set drops from
 0.854 to 0.746 Dice while pointing-game localization holds at 92.3% — boundary precision and
 coarse localization fail at different rates, which matters for anything used as clinical guidance.
+Code: [`ilayd-a/endoscopy-multitask-guidance`](https://github.com/ilayd-a/endoscopy-multitask-guidance)
 
 ---
 
@@ -37,11 +38,11 @@ coarse localization fail at different rates, which matters for anything used as 
 
 ### Tools I reach for
 
-**Edge / robotics** — NVIDIA Jetson · TensorRT · CUDA · NVIDIA VPI · ROS 2 · llama.cpp · 4-bit quantization  
-**ML / CV** — PyTorch · timm · OpenCV · YOLO · U-Net · ST-GCN · MediaPipe  
+**Edge / robotics** — NVIDIA Jetson · TensorRT · CUDA · NVIDIA VPI · ROS 2 · llama.cpp · 4-bit quantization
+**ML / CV** — PyTorch · timm · OpenCV · YOLO · U-Net · ST-GCN · MediaPipe
 **Systems** — Python · C/C++ · FastAPI · React · TypeScript · WebSocket · Docker · Linux
 
 ---
 
-📍 New York, NY → open to **Hong Kong** and **NYC** from mid-2027  
+📍 New York, NY → open to **Hong Kong** and **NYC** from mid-2027
 ✉️ [lewis.z@nyu.edu](mailto:lewis.z@nyu.edu) · [LinkedIn](https://linkedin.com/in/lewiszhao)
