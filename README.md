@@ -10,9 +10,10 @@ factory line, a Jetson Orin Nano on a tutor robot.
 
 ### What I'm working on
 
-**NYU SCENT Lab** · *Software & Embedded Systems Team Lead* — leading a 7-person team building an
-offline multimodal assistant for laboratory workflows, running on edge hardware.
-*(NYU project under NDA — repository private and details limited.)*
+**NYU SCENT Lab** · *Software & Embedded Systems Team Lead* — leading a 7-person team on an offline
+multimodal assistant for laboratory workflows, in daily use by 12 researchers. A 4-bit quantized
+multimodal LLM with local speech and retrieval on a Jetson Orin Nano, behind a Python/FastAPI +
+React platform. *(NYU project under NDA — repository private, implementation details not public.)*
 
 **NYU FAMS Lab** · *HRI Team Lead* — perception stack for a humanoid tutor robot, running
 on-device in real time rather than offloaded. Code is public → [`nyu-fams-hri-cv`](https://github.com/liyteku/nyu-fams-hri-cv)
@@ -44,5 +45,6 @@ Code: [`ilayd-a/endoscopy-multitask-guidance`](https://github.com/ilayd-a/endosc
 
 ---
 
-📍 New York, NY → open to **Hong Kong** and **NYC** from mid-2027
-✉️ [lewis.z@nyu.edu](mailto:lewis.z@nyu.edu) · [LinkedIn](https://linkedin.com/in/lewiszhao)
+Open to AI/ML, computer vision, and robotics roles.
+
+📍 New York, NY · [LinkedIn](https://linkedin.com/in/lewiszhao)
